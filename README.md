@@ -1,2 +1,16 @@
 # react-redux-tutorial
-Officially react comment box tutorial with redux data flow
+This project uses React.js official tutorial to implement a comment box and add Redux data flow in it.
+
+## Feature
+* ES6 syntax
+* Webpack
+* Express server to handle api
+
+## Getting Start
+
+	npm install
+	npm start
+
+Open your browser (http://localhost:3000/) 
+
+Enjoy it!
